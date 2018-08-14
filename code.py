@@ -612,5 +612,7 @@ def control(a,b,corpus,Y,tcorpus,ty):
 def main():
 	(corpus,labels,tcorpus,tlabels) = preproc()
 	# fsent(corpus,tcorpus)
-	control(6,5,corpus,labels,tcorpus,tlabels)
+	repr = 6
+	corp = 5
+	control(repr,corp,corpus,labels,tcorpus,tlabels)
 main()
