@@ -19,4 +19,6 @@ For classification algorithms try the following:
 • A feed forward neural network.
 • A recurrent neural network (use an LSTM or GRU).
 
+repr and corp variables at the end of code.py are used to toggle between different representations and classifiers
+
 Copied from CS671 Assignment_2 by Prof. Harish Karnick.
